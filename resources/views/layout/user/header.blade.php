@@ -1,4 +1,4 @@
- <!-- Header v1 -->
+<!-- Header v1 -->
       <header id="js-header" class="u-header u-header--sticky-top u-header--change-appearance"
               data-header-fix-moment="100">
         <div class="light-theme u-header__section g-transition-0_3 g-py-15"
@@ -9,11 +9,11 @@
               <!-- Logo -->
               <a href="#" class="js-go-to navbar-brand u-header__logo"
                  data-type="static">
-                <img class="u-header__logo-img u-header__logo-img--main d-block g-width-160" src="assets/img/logo-light.png" alt="Image Description"
+                <img class="u-header__logo-img u-header__logo-img--main d-block g-width-160" src="assets/logo/logo-light.png" alt="Image Description"
                      data-header-fix-moment-exclude="d-block"
                      data-header-fix-moment-classes="d-none">
 
-                <img class="u-header__logo-img u-header__logo-img--main d-none g-width-160" src="assets/img/logo-dark.png" alt="Image Description"
+                <img class="u-header__logo-img u-header__logo-img--main d-none g-width-160" src="assets/logo/logo-dark1.png" alt="Image Description"
                      data-header-fix-moment-exclude="d-none"
                      data-header-fix-moment-classes="d-block">
               </a>
@@ -25,17 +25,18 @@
                   <li class="nav-item g-mr-10--lg g-mb-7 g-mb-0--lg active">
                     <a href="#home" class="nav-link p-0">Home <span class="sr-only">(current)</span></a>
                   </li>
+                 
                   <li class="nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
-                    <a href="#yourHelp" class="nav-link p-0">Your help</a>
+                    <a href="#ourProjects" class="nav-link p-0">projects</a>
                   </li>
-                  <li class="nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
-                    <a href="#ourProjects" class="nav-link p-0">Our projects</a>
+                   <li class="nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
+                    <a href="#yourHelp" class="nav-link p-0">help</a>
                   </li>
                   <li class="nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
                     <a href="#successStories" class="nav-link p-0">Success stories</a>
                   </li>
                   <li class="nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
-                    <a href="#donators" class="nav-link p-0">Donators</a>
+                    <a href="#donators" class="nav-link p-0">Contributors</a>
                   </li>
                   <li class="nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
                     <a href="#events" class="nav-link p-0">Events</a>

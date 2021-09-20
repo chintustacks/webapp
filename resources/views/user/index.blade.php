@@ -73,65 +73,8 @@
         </div>
       </section>
       <!-- End Section Promo -->
-
-      <!-- Section Content -->
-      <section id="yourHelp" class="g-py-100">
-        <div class="container g-max-width-780 text-center g-mb-60">
-          <div class="text-center u-heading-v8-1 g-mb-35">
-            <h2 class="h3 text-uppercase u-heading-v8__title g-font-weight-700 g-font-size-26 mb-0">How you
-              <strong class="g-bg-gray-dark-v1 g-color-primary">can help</strong></h2>
-          </div>
-
-          <p class="mb-0">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
-        </div>
-
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-6">
-              <!-- Article -->
-              <article class="row align-items-stretch text-center g-color-gray-dark-v5 g-bg-black mx-0">
-                <!--Article Content-->
-                <div class="col-sm-6 u-ns-bg-v1-bottom u-ns-bg-v1-right--md g-bg-black g-px-30 g-py-45">
-                  <h3 class="text-uppercase g-font-size-20 g-color-white g-mb-25">Became a
-                    <strong class="d-block g-font-weight-700 g-color-primary">Volunteer</strong></h3>
-                  <p class="g-mb-25">Praesent pulvinar gravida efficitur. Aenean bibendum purus eu nisi pulvinar venenatis vitae non velit.</p>
-                  <a class="btn btn-md text-uppercase u-btn-primary g-font-weight-700 g-font-size-11 g-color-gray-dark-v1 g-color-gray-dark-v1--hover rounded-0 g-py-10 g-px-25" href="#">Join Us</a>
-                </div>
-                <!-- End Article Content -->
-
-                <!-- Article Image -->
-                <div class="col-sm-6 px-0 u-bg-overlay g-bg-black-opacity-0_2--after g-bg-img-hero g-min-height-300"
-                     data-bg-img-src="assets/img-temp/800x842/img1.jpg"></div>
-                <!-- End Article Image -->
-              </article>
-              <!-- End Article -->
-            </div>
-
-            <div class="col-lg-6">
-              <!-- Article -->
-              <article class="row align-items-stretch text-center g-color-gray-dark-v5 g-bg-black mx-0">
-                <!-- Article Image -->
-                <div class="col-sm-6 px-0 u-bg-overlay g-bg-black-opacity-0_2--after g-bg-img-hero g-min-height-300"
-                     data-bg-img-src="assets/img-temp/800x842/img2.jpg"></div>
-                <!-- End Article Image -->
-
-                <!--Article Content-->
-                <div class="col-sm-6 u-ns-bg-v1-top u-ns-bg-v1-left--md g-bg-black g-px-30 g-py-45">
-                  <h3 class="text-uppercase g-font-size-20 g-color-white g-mb-25">Make a
-                    <strong class="d-block g-font-weight-700 g-color-primary">Dontation</strong></h3>
-                  <p class="g-mb-25">Praesent pulvinar gravida efficitur. Aenean bibendum purus eu nisi pulvinar venenatis vitae non velit.</p>
-                  <a class="btn btn-md text-uppercase u-btn-primary g-font-weight-700 g-font-size-11 g-color-gray-dark-v1 g-color-gray-dark-v1--hover rounded-0 g-py-10 g-px-25" href="#">Join Us</a>
-                </div>
-                <!-- End Article Content -->
-              </article>
-              <!-- End Article -->
-            </div>
-          </div>
-        </div>
-      </section>
-      <!-- End Section Content -->
-
-      <!-- Section Content -->
+          
+           <!-- Section Content -->
       <section id="ourProjects" class="g-bg-gray-light-v5 g-py-100">
         <div class="container g-max-width-780 text-center g-mb-60">
           <div class="text-center u-heading-v8-1 g-mb-35">
@@ -420,6 +363,65 @@
         </div>
       </section>
       <!-- End Section Content -->
+
+      <!-- Section Content -->
+      <section id="yourHelp" class="g-py-100">
+        <div class="container g-max-width-780 text-center g-mb-60">
+          <div class="text-center u-heading-v8-1 g-mb-35">
+            <h2 class="h3 text-uppercase u-heading-v8__title g-font-weight-700 g-font-size-26 mb-0">How you
+              <strong class="g-bg-gray-dark-v1 g-color-primary">can help</strong></h2>
+          </div>
+
+          <p class="mb-0">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+        </div>
+
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-6">
+              <!-- Article -->
+              <article class="row align-items-stretch text-center g-color-gray-dark-v5 g-bg-black mx-0">
+                <!--Article Content-->
+                <div class="col-sm-6 u-ns-bg-v1-bottom u-ns-bg-v1-right--md g-bg-black g-px-30 g-py-45">
+                  <h3 class="text-uppercase g-font-size-20 g-color-white g-mb-25">Became a
+                    <strong class="d-block g-font-weight-700 g-color-primary">Volunteer</strong></h3>
+                  <p class="g-mb-25">Praesent pulvinar gravida efficitur. Aenean bibendum purus eu nisi pulvinar venenatis vitae non velit.</p>
+                  <a class="btn btn-md text-uppercase u-btn-primary g-font-weight-700 g-font-size-11 g-color-gray-dark-v1 g-color-gray-dark-v1--hover rounded-0 g-py-10 g-px-25" href="#">Join Us</a>
+                </div>
+                <!-- End Article Content -->
+
+                <!-- Article Image -->
+                <div class="col-sm-6 px-0 u-bg-overlay g-bg-black-opacity-0_2--after g-bg-img-hero g-min-height-300"
+                     data-bg-img-src="assets/img-temp/800x842/img1.jpg"></div>
+                <!-- End Article Image -->
+              </article>
+              <!-- End Article -->
+            </div>
+
+            <div class="col-lg-6">
+              <!-- Article -->
+              <article class="row align-items-stretch text-center g-color-gray-dark-v5 g-bg-black mx-0">
+                <!-- Article Image -->
+                <div class="col-sm-6 px-0 u-bg-overlay g-bg-black-opacity-0_2--after g-bg-img-hero g-min-height-300"
+                     data-bg-img-src="assets/img-temp/800x842/img2.jpg"></div>
+                <!-- End Article Image -->
+
+                <!--Article Content-->
+                <div class="col-sm-6 u-ns-bg-v1-top u-ns-bg-v1-left--md g-bg-black g-px-30 g-py-45">
+                  <h3 class="text-uppercase g-font-size-20 g-color-white g-mb-25">Make a
+                    <strong class="d-block g-font-weight-700 g-color-primary">Dontation</strong></h3>
+                  <p class="g-mb-25">Praesent pulvinar gravida efficitur. Aenean bibendum purus eu nisi pulvinar venenatis vitae non velit.</p>
+                  <a class="btn btn-md text-uppercase u-btn-primary g-font-weight-700 g-font-size-11 g-color-gray-dark-v1 g-color-gray-dark-v1--hover rounded-0 g-py-10 g-px-25" href="#">Join Us</a>
+                </div>
+                <!-- End Article Content -->
+              </article>
+              <!-- End Article -->
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- End Section Content -->
+
+
 
       <!-- Section Content -->
       <section class="u-bg-overlay g-bg-black-opacity-0_7--after g-bg-img-hero g-py-100" style="background-image: url(assets/img-temp/1400x773/img1.jpg);">

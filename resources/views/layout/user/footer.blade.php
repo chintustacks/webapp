@@ -1,11 +1,11 @@
-  <!-- Footer -->
+     <!-- Footer -->
       <footer class="g-color-gray-dark-v5 g-bg-gray-dark-v1">
         <div id="subscription" class="container">
           <div class="w-100 g-height-4"></div>
 
           <div class="g-color-gray-dark-v1 g-bg-primary g-pa-40 g-mt-minus-60 g-mb-70">
             <h2 class="text-uppercase g-font-weight-700 g-font-size-22 g-color-gray-dark-v1 g-mb-10">Newsletters subscribe</h2>
-            <p class="g-mb-20">Runc ullamcorper, justo a iaculis elementum, enim orci viverra eros, fringilla porttitor lorem.</p>
+            <p class="g-mb-20">Get Attention from Our end to gain the posts profit .</p>
 
             <div class="row">
               <div class="col-md-4 col-lg-5">
@@ -34,11 +34,11 @@
           <div class="container">
             <div class="row">
               <div class="col-md-12 col-lg-4 g-mb-25 g-mb-0--lg">
-                <h2 class="text-uppercase g-font-weight-700 g-font-size-default g-color-white g-mb-15">Text widget</h2>
+                <h2 class="text-uppercase g-font-weight-700 g-font-size-default g-color-white g-mb-15">Chintu Stacks</h2>
                 <p class="g-mb-20">
-                  <img class="img-fluid" src="assets/img-temp/800x344/img1.jpg" alt="Image description">
+                  <img class="img-fluid" src="assets/banner/med-size.jpeg" alt="Image description">
                 </p>
-                <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vitae est lorem. Aenean imperdiet nisi a dolor condimentum, id ullamcorper lacus vestibulum. Praesent pulvinar gravida. Aenean lobortis ante ac porttitor eleifend.</p>
+                <p class="mb-0">CSE Graduate ,Full stacks Developer  </p>
               </div>
 
               <div class="col-md-6 col-lg-4">
@@ -156,8 +156,8 @@
           <div class="container">
             <div class="row">
               <div class="col-md-6 d-flex align-items-center g-mb-15 g-mb-0--md">
-                <p class="w-100 mb-0">&copy; 2019 All right reserved. Development by
-                  <a class="g-font-weight-700 g-color-primary g-color-primary--hover" href="#">HTML Stream</a></p>
+                <p class="w-100 mb-0">&copy; 2021 All right reserved. Development by
+                  <a class="g-font-weight-700 g-color-primary g-color-primary--hover" href="#">Chintu Stacks</a></p>
               </div>
 
               <div class="col-md-6">
